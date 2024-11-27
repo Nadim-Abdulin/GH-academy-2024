@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Input a number from the   user;
+        // Input a number from the  user;
         System.out.print("Enter a number: ");
         int number = scanner.nextInt();
 
