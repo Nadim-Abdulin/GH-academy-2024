@@ -12,7 +12,7 @@ public class Main {
         System.out.print("Enter a number: ");
         int number = scanner.nextInt();
 
-        // Check if the number is prime;
+        // Check if the number  is prime;
         if (isPrime(number)) {
             System.out.println(number + " is  a prime number.");
         } else {
