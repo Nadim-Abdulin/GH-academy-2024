@@ -24,7 +24,7 @@ public class Main {
 
     // Method to check if a number is prime;
     public static boolean isPrime(int num) {
-        // Handle edge cases for numbers less than 2
+        // Handle edge  cases for numbers less than 2
         if (num <= 1) {
             return false;
         }
