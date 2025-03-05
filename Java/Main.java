@@ -29,7 +29,7 @@ public class Main {
             return false;
         }
 
-        // Check for    divisibility up to the square root of the number
+        // Check for divisibility up to the square root of the number
         for (int i = 2; i <= Math.sqrt(num); i++) {
             if (num % i == 0) {
                 return false; // If divisible, not a prime number
