@@ -22,7 +22,7 @@ public class Main {
         scanner.close();
     }
 
-    //     Method to  check if a number is  prime;
+    //     Method  to  check if a number is  prime;
     public static boolean isPrime(int num) {
         // Handle edge  cases for numbers  less than 2 
         if (num <= 1) {
