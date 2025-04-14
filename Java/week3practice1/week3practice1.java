@@ -1,4 +1,4 @@
-/**   This file can be used as a package example... */
+/**   This file can be used  as a package example... */
 package week3practice1;
 
 import java.util.HashMap;
