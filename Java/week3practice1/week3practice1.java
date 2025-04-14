@@ -9,7 +9,7 @@ public class week3practice1 {
         HashMap<Integer, Integer> complements = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
              int val = nums[i];
-             //  target == val + complement
+             //  target  == val + complement
              int complement = target-val;
              if(complements.containsKey(complement)) {
                  return new int[]{complements.get(complement), i};
