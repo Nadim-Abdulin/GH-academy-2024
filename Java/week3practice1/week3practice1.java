@@ -20,7 +20,7 @@ public class week3practice1 {
     return new int[]{};
     }
     public static void main(String[] args) {
-        //          0,1,2,3
+         //          0,1,2,3
         int[] nums = {5,8,3,9};
         int[] indices = twoSum(nums, 13); // 0,1
         System.out.println("Indices: " + indices[0] + ", " + indices[1]);
